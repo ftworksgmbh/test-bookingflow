@@ -12,6 +12,16 @@ In this task, our intention is to test your skills as a front end designer, and 
 
 The design (both mobile and desktop) can be found in Zeplin. Please go to https://www.figma.com/file/MMO6SdYbNWd7Rx17RdVzc7/DigiVet-Project?node-id=0%3A1
 
+https://github.com/ftworksgmbh/test-bookingflow/blob/master/src/images/mobileflow.png
+
+https://github.com/ftworksgmbh/test-bookingflow/blob/master/src/images/desktopflow.PNG
+
+
+The above images are screen shots of the actual desktop and mobile designs in the link given.You have to complete the first two pages as shown in the screen shot for both desktop and mobile views  by using breakpoints.(Example styling can be found in the styled.js files in the repo)
+
+There is a multistep form,complete the first two steps as shown in the screen shot.After clicking on next button on the second step,all the details from 
+step 1 and step 2 should be shown as summary page.If we click back button from second step it should show first step and the already filled details in the input boxes.
+
 ## What you will be judged on
 
 1. Accuracy to the design and code style/efficiency.
@@ -22,7 +32,7 @@ The design (both mobile and desktop) can be found in Zeplin. Please go to https:
 
 To give you a reference on how to style the component, we have styled one component out of the complete design. Please check the """ to understand how component level styling works.
 
-To make it easier for you, we have also designed the folder layout, and imported the text and images of all the components. Your task is to style each of the remaining components in the same style as the UberEmmora folder.
+
 
 ## How to submit the completed task
 
