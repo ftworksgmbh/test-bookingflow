@@ -10,7 +10,7 @@ In this task, our intention is to test your skills as a front end designer, and 
 
 ## Where to find the design
 
-The design (both mobile and desktop) can be found in Zeplin. Please go to https://www.figma.com/file/MMO6SdYbNWd7Rx17RdVzc7/DigiVet-Project?node-id=0%3A1and enter the following credentials
+The design (both mobile and desktop) can be found in Zeplin. Please go to https://www.figma.com/file/MMO6SdYbNWd7Rx17RdVzc7/DigiVet-Project?node-id=0%3A1 and enter the following credentials
 - Username - info@valuenet.in
 - Pass - PassWord1
 
