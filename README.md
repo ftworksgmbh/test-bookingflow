@@ -10,31 +10,23 @@ In this task, our intention is to test your skills as a front end designer, and 
 
 ## Where to find the design
 
-The design (both mobile and desktop) can be found in Zeplin. Please go to https://www.figma.com/file/MMO6SdYbNWd7Rx17RdVzc7/DigiVet-Project?node-id=0%3A1 and enter the following credentials
-- Username - info@valuenet.in
-- Pass - PassWord1
-
-Once logged in, you will find the desktop and mobile versions of designs. Incase it is not inquitive enough, you can find the desktop version here - https://zpl.io/awo46jg and the mobile version here - https://zpl.io/angpkPr
-
-
-
-
-
+The design (both mobile and desktop) can be found in Zeplin. Please go to https://www.figma.com/file/MMO6SdYbNWd7Rx17RdVzc7/DigiVet-Project?node-id=0%3A1
 
 ## What you will be judged on
-1) Accuracy to the design and code style/efficiency.
-2) Use of Styled Components
-3) Responsiveness
+
+1. Accuracy to the design and code style/efficiency.
+2. Use of Styled Components
+3. Responsiveness
 
 ## Component styling
 
-To give you a reference on how to style the component, we have styled one component out of the complete design. Please check the """ to understand how component level styling works. 
+To give you a reference on how to style the component, we have styled one component out of the complete design. Please check the """ to understand how component level styling works.
 
-To make it easier for you, we have also designed the folder layout, and imported the text and images of all the components. Your task is to style each of the remaining components in the same style as the UberEmmora folder. 
+To make it easier for you, we have also designed the folder layout, and imported the text and images of all the components. Your task is to style each of the remaining components in the same style as the UberEmmora folder.
 
 ## How to submit the completed task
 
-You can submit the final submission by uploading it on your personal github in a new repo and sharing the link with me on info@ftworks.de. 
+You can submit the final submission by uploading it on your personal github in a new repo and sharing the link with me on info@ftworks.de.
 
 If you have any questions you can always contact me.
 
@@ -55,9 +47,4 @@ If you have any questions you can always contact me.
     gatsby develop
     ```
 
-
-
 1.  **`/src`**: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser) such as your site header or a page template. `src` is a convention for “source code”.
-
-
-
