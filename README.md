@@ -12,9 +12,9 @@ In this task, our intention is to test your skills as a front end designer, and 
 
 The design (both mobile and desktop) can be found in Zeplin. Please go to https://www.figma.com/file/MMO6SdYbNWd7Rx17RdVzc7/DigiVet-Project?node-id=0%3A1
 
-https://github.com/ftworksgmbh/test-bookingflow/blob/master/src/images/mobileflow.png
+(https://github.com/ftworksgmbh/test-bookingflow/blob/master/src/images/mobileflow.png)
 
-https://github.com/ftworksgmbh/test-bookingflow/blob/master/src/images/desktopflow.PNG
+(https://github.com/ftworksgmbh/test-bookingflow/blob/master/src/images/desktopflow.PNG)
 
 
 The above images are screen shots of the actual desktop and mobile designs in the link given.You have to complete the first two pages as shown in the screen shot for both desktop and mobile views  by using breakpoints.(Example styling can be found in the styled.js files in the repo)
