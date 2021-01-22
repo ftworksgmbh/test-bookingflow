@@ -14,6 +14,9 @@ The design (both mobile and desktop) can be found in Zeplin. Please go to https:
 
 ![mobileflow](https://github.com/ftworksgmbh/test-bookingflow/blob/master/src/images/mobileflow.png)
 
+
+
+
 ![desktopflow](https://github.com/ftworksgmbh/test-bookingflow/blob/master/src/images/desktopflow.PNG)
 
 
